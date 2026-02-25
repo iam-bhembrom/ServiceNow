@@ -62,7 +62,7 @@
     // Reuse your existing discovery config:
     var LOAD_DEMO_DATA_DEFAULT = false;
     var PRESERVE_DEMO_DATA = false;
-    var APP_LIMIT = 5;
+    var APP_LIMIT = 150;
     var INCLUDE_SYSTEM_APPS = true;
 
     // ====================== LOGGING ======================
